@@ -1,0 +1,16 @@
+
+.cardDetail {
+  background-color: #181818;
+  color: white;
+  padding: 0.5rem 0;
+  text-align: left;
+
+}
+.cardDetail a {
+  text-decoration: none;
+  color: white;
+
+}
+.cardDetail a:hover {
+  text-decoration: underline;
+}
